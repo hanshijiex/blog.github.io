@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hansir的博客</title>
+  <title>Hansirのblog</title>
   
   <subtitle>热爱生活</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="//hansircode.cn/"/>
+  <link href="http://hansircode.cn/"/>
   <updated>2017-09-19T07:01:14.000Z</updated>
-  <id>//hansircode.cn/</id>
+  <id>http://hansircode.cn/</id>
   
   <author>
-    <name>Hansir</name>
+    <name>HanSir</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="//hansircode.cn/2017/09/19/hello-world/"/>
-    <id>//hansircode.cn/2017/09/19/hello-world/</id>
+    <link href="http://hansircode.cn/2017/09/19/hello-world/"/>
+    <id>http://hansircode.cn/2017/09/19/hello-world/</id>
     <published>2017-09-19T07:01:14.000Z</published>
     <updated>2017-09-19T07:01:14.000Z</updated>
     
